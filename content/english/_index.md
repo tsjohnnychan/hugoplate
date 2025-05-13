@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Turn the World's Open Source Projects into Your App Store"
-  content: "Hazl AI is the AI cloud platform where you can deploy any Github applications to your own servers. No DevOps experiences are required. Our AI agents take care everything."
+  content: "Hazl AI is the AI cloud platform where you can deploy any Github applications to your own virtual machines. No DevOps experiences are required. Our AI agents take care everything."
   image: "/images/banner.png"
   button:
     enable: true
