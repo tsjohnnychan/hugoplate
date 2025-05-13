@@ -11,6 +11,21 @@ name = "About"
 url = "/about"
 weight = 2
 
+[[main]]
+name = "Blog"
+url = "https://medium.com/@tsjohnnychan"
+weight = 3
+
+[[main]]
+name = "Discord"
+url = "https://discord.com/invite/kVbhfWYR"
+weight = 3
+
+[[main]]
+name = "Enterprise"
+url = "https://hazl.ca"
+weight = 4
+
 # [[main]]
 # name = "Elements"
 # url = "/elements"
