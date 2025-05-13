@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Turn the World's Open Source Projects into Your App Store"
-  content: "Hazl AI is the AI cloud platform where you can deploy any Github applications to your own virtual machines. No DevOps experiences are required. Our AI agents take care everything."
+  content: "Hazl AI is the AI cloud platform where you can deploy any GitHub applications to your own virtual machines. No DevOps experience is required. Our AI agents take care of everything."
   image: "/images/banner.png"
   button:
     enable: true
@@ -11,12 +11,12 @@ banner:
 
 # Features
 features:
-  - title: "All It Needs is a Github Link"
+  - title: "All It Needs is a GitHub Link"
     image: "/images/service-1.png"
-    content: "Hazl greatly simplifies the deployment process. Behind the curve, the AI agents analyze the repository, codebase, and documentation."
+    content: "Hazl simplifies deployment by having AI agents automatically analyze repositories, interpret codebases, and understand documentation."
     bulletpoints:
       - "No command-line knowledge required"
-      - "Just natural lanaguage if you need to customize the application"
+      - "Just natural language if you need to customize the application"
       - "Manage all your applications in one place. This is your app store"
       # - "Fully responsive on all devices"
       # - "SEO-optimized for better search engine rankings"
@@ -26,26 +26,26 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "More it Deploys, the Smarter it Becomes"
+  - title: "More it Deploys, Smarter it Becomes"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Our AI agents are not simply a set of LLMs. They form a collaboration system that improves over time."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "They learn from every deployment, whether it's a success or a failure"
+      - "Built-in memory mechanism to remember similar tasks for better performance"
+      - "It adapts to user instructions for any customizations"
     button:
       enable: true
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Under the Hood: the AI-operated Cloud"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Hazl's AI cloud platform is fully automated and AI-operated. Our mission is to use AI to lower the threshold of building web resources."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Hazl's VM can be fully set up within 3 minutes"
+      - "All resources are managed by AI, which greatly reduces the cost for users"
+      - "We offer enterprise solutions to help businesses set up their AI private cloud"
+      # - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
     button:
       enable: false
       label: ""

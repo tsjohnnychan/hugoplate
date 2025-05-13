@@ -1,9 +1,9 @@
 ---
-title: "Hey, I am John Doe!"
+title: "The Team Behind Hazl AI"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/about_us.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+We are a group of AI and cloud enthusiasts who believe these technologies shouldn't be out of reach for normal people. As a company, we have been around for a while, mainly on the consulting side providing enterprise AI and Cloud solutions. We saw the need for making these technologies more accessible. That's why we built this platform -- the first ever AI-operated cloud platform. We believe we are on a mission to bring AI and cloud technology to benefit not just the richest corporations, but individuals who need it. 
