@@ -11,22 +11,22 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "All It Needs is a Github Link"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Hazl greatly simplifies the deployment process. Behind the curve, the AI agents analyze the repository, codebase, and documentation."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "No command-line knowledge required"
+      - "Just natural lanaguage if you need to customize the application"
+      - "Manage all your applications in one place. This is your app store"
+      # - "Fully responsive on all devices"
+      # - "SEO-optimized for better search engine rankings"
+      # - "**Open-source and free** for personal and commercial use"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "More it Deploys, the Smarter it Becomes"
     image: "/images/service-2.png"
     content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:
